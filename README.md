@@ -1,4 +1,4 @@
-#software skill from TensorFlow:
+# software skill from TensorFlow:
 - Learning:
   - Great Course: 
 
